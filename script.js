@@ -191,7 +191,7 @@ function updateMoodPlaylists(weatherInfo) {
         title: "Default Playlist",
         platformLinks: [
             { platform: "Spotify", url: "https://open.spotify.com/playlist/37i9dQZF1DX3rxVfibe1L0" },
-            { platform: "YouTube", url: "https://www.youtube.com/playlist?list=PLD7rM6wZ0MpXg1oF-XOmaQShwAxuCjBQm" },
+            { platform: "YouTube", url: "https://https://youtu.be/-1CwZ-U7UEs?si=2ZjdQdUpu80COHFr" },
             { platform: "Apple Music", url: "https://music.apple.com/us/playlist/default-vibes/pl.u-V9D7MydTVa" },
         ],
     };
@@ -203,7 +203,7 @@ function updateMoodPlaylists(weatherInfo) {
             title: "Relaxing Rainy Day Playlist",
             platformLinks: [
                 { platform: "Spotify", url: "https://open.spotify.com/playlist/37i9dQZF1DXbvABJXBIyiY" },
-                { platform: "YouTube", url: "https://www.youtube.com/playlist?list=PLy6M5cUT2ALksFgHViRsAu4Xabq5pSHsF" },
+                { platform: "YouTube", url: "https://https://youtu.be/HCWvgoTfUjg?si=Ml6gZliYz30GU-G6" },
                 { platform: "Apple Music", url: "https://music.apple.com/us/playlist/relaxing-rainy-day/pl.u-BNA6ZDVsZk" },
             ],
         };
@@ -212,7 +212,7 @@ function updateMoodPlaylists(weatherInfo) {
             title: "Sunny Day Vibes Playlist",
             platformLinks: [
                 { platform: "Spotify", url: "https://open.spotify.com/playlist/37i9dQZF1DX6ALfRKlHn1t" },
-                { platform: "YouTube", url: "https://www.youtube.com/playlist?list=PLMC9KNkIncKtPzgY-5rmhvj7fax8fdxoj" },
+                { platform: "YouTube", url: "https://https://youtu.be/UB9AvrPGT2I?si=d3Y8meb1bsORzLM0" },
                 { platform: "Apple Music", url: "https://music.apple.com/us/playlist/sunny-day-vibes/pl.u-BNA6ZvKCAk" },
             ],
         };
@@ -221,7 +221,7 @@ function updateMoodPlaylists(weatherInfo) {
             title: "Chill and Cloudy Mix",
             platformLinks: [
                 { platform: "Spotify", url: "https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6" },
-                { platform: "YouTube", url: "https://www.youtube.com/playlist?list=PLy6M5cUT2ALkO3DXeyKO0mfj_jS7dLYtM" },
+                { platform: "YouTube", url: "https://youtu.be/gerbE_43WyY?si=9osdXaCSdWCqNOaB" },
                 { platform: "Apple Music", url: "https://music.apple.com/us/playlist/chill-and-cloudy/pl.u-pMyljkyFzJ" },
             ],
         };
